@@ -31,6 +31,11 @@ After logging in as a Doctor, the following features are available:
 After logging in as an Admin, the following features are available:
 - **Doctor Management**
   - View all doctor details
+  - Add doctor details
+  - Update all doctor details
+  - Delete Doctors
+  - Display All Doctors count
+       
 - **Patient Management**
   - View all patient records
 
